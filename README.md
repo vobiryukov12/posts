@@ -8,7 +8,7 @@ https://vobiryukov12.github.io/posts/
 <img src='./src/assets/preview.jpg' width='450'>
 
 ## Описание
-Мини-приложение на React, которое форматирует дату публикации и выделяет популярные и новые посты
+Мини-приложение на React, которое форматирует дату публикации и выделяет популярные и новые посты используя Higher Order Components (HOC)
 
 ### Технологии используемые на проекте:
 [![Skills](https://skillicons.dev/icons?i=react,ts,scss,vite)](https://skillicons.dev)
